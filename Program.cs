@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Security.Cryptography.X509Certificates;
 namespace Example_2
 {
     class marks
@@ -41,3 +40,4 @@ namespace Example_2
 
     }
 }
+
